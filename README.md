@@ -1,5 +1,4 @@
-# Real-time-2D-Object-Recognition
-
+This project focuses on real-time 2D object recognition using computer vision techniques. The objective is to develop a system that can identify a specified set of objects placed on a white surface from a camera looking straight down, irrespective of translation, scale, or rotation. The system should be able to recognize single objects placed in the image and output an image indicating the identified object. Real-time performance is desired, but if not feasible, a directory of images can be processed instead. The implementation involves thresholding, morphological filtering, connected components analysis, feature computation, training data collection, classification, and evaluation.
 
 ----Video:
 
